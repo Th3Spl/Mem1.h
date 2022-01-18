@@ -20,8 +20,12 @@ Another Exaple:
 
 ![foto2 acCube](https://i.imgur.com/NzwWhfY.png)
 
-Enjoy my library!
-
 ### Language:
 
 - [x] C++
+
+### Links:
+[`Discord Community`](https://discord.gg/635ysHGDG6)
+[`GitHub`](https://github.com/Th3Spl)
+
+Enjoy my header!
