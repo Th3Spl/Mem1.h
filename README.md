@@ -9,7 +9,5 @@ simple for everyone!
 This is a simple exaple for AssaultCube:
 
 ![foto1 acCube](https://i.imgur.com/vHs0Vw3.png)
-
-An example with some comment:
-
+Another Exaple:
 ![foto2 acCube](https://i.imgur.com/NzwWhfY.png)
