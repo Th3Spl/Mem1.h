@@ -6,4 +6,4 @@ simple for everyone!
 
 ### Here Some Examples:
 
-[!foto1 acCube](https://i.imgur.com/vHs0Vw3.png)
+[foto1 acCube](https://i.imgur.com/vHs0Vw3.png)
